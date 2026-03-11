@@ -2,6 +2,8 @@
 node_modules/
 /yoga-backend/node_modules/
 /yoga-website-master/node_modules/
+.git-bak/
+**/.git-bak/
 
 # Environment files
 .env
