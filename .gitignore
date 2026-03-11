@@ -1,5 +1,6 @@
 # Dependency directories
 node_modules/
+yoga-backend/
 /yoga-backend/node_modules/
 /yoga-website-master/node_modules/
 .git-bak/
